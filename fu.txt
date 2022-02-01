@@ -1,0 +1,65 @@
+
+#EXTINF:-1,PT: TLC
+http://leadpro.pt:25461/live/asdf/asdf/285.ts
+#EXTINF:-1,PT: CRIME INVESTIGATION
+http://leadpro.pt:25461/live/asdf/asdf/368.ts
+#EXTINF:-1,PT: BTV
+http://leadpro.pt:25461/live/asdf/asdf/12723.ts
+#EXTINF:-1,PT: BTV 1
+http://leadpro.pt:25461/live/asdf/asdf/339.ts
+#EXTINF:-1,PT: BTV 1 Alt.
+http://leadpro.pt:25461/live/asdf/asdf/5312.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://leadpro.pt:25461/live/asdf/asdf/338.ts
+#EXTINF:-1,PT: BTV 1 HD *
+http://leadpro.pt:25461/live/asdf/asdf/5314.ts
+#EXTINF:-1,PT: BTV FHD*
+http://leadpro.pt:25461/live/asdf/asdf/12722.ts
+#EXTINF:-1,PT: BTV 1 FULL HD
+http://leadpro.pt:25461/live/asdf/asdf/337.ts
+#EXTINF:-1,PT: A BOLA TV
+http://leadpro.pt:25461/live/asdf/asdf/332.ts
+#EXTINF:-1,PT: Eurosport
+http://leadpro.pt:25461/live/asdf/asdf/329.ts
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://leadpro.pt:25461/live/asdf/asdf/328.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://leadpro.pt:25461/live/asdf/asdf/327.ts
+#EXTINF:-1,PT: Eurosport News
+http://leadpro.pt:25461/live/asdf/asdf/418.ts
+#EXTINF:-1,PT: KOMBAT SPORT
+http://leadpro.pt:25461/live/asdf/asdf/324.ts
+#EXTINF:-1,PT: CANAL DE HISTÓRIA
+http://leadpro.pt:25461/live/asdf/asdf/294.ts
+#EXTINF:-1,PT: BABY TV
+http://leadpro.pt:25461/live/asdf/asdf/389.ts
+#EXTINF:-1,PT: BABY FIRST
+http://leadpro.pt:25461/live/asdf/asdf/390.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://leadpro.pt:25461/live/asdf/asdf/393.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://leadpro.pt:25461/live/asdf/asdf/394.ts
+#EXTINF:-1,PT: BIGGS
+http://leadpro.pt:25461/live/asdf/asdf/391.ts
+#EXTINF:-1,PT: PANDA
+http://leadpro.pt:25461/live/asdf/asdf/396.ts
+#EXTINF:-1,PT: MCM POP
+http://leadpro.pt:25461/live/asdf/asdf/274.ts
+#EXTINF:-1,PT: MCS Extreme
+http://leadpro.pt:25461/live/asdf/asdf/286.ts
+#EXTINF:-1,PT: MCS Lifestyle
+http://leadpro.pt:25461/live/asdf/asdf/287.ts
+#EXTINF:-1,PT: MOTORS TV
+http://leadpro.pt:25461/live/asdf/asdf/323.ts
+#EXTINF:-1,PT: Motorvision
+http://leadpro.pt:25461/live/asdf/asdf/322.ts
+#EXTINF:-1,PT: MTV DANCE
+http://leadpro.pt:25461/live/asdf/asdf/279.ts
+#EXTINF:-1,PT: MTV MUSIC
+http://leadpro.pt:25461/live/asdf/asdf/278.ts
+#EXTINF:-1,PT: MTV PORTUGAL HD
+http://leadpro.pt:25461/live/asdf/asdf/276.ts
+
+
+
+  futebol
